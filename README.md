@@ -1,4 +1,4 @@
-# Time Series Tuned Cricket Insight Forecaster
+# Time Series Tuned Cricket Trend Forecaster
 
 ## Overview
 
