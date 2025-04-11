@@ -110,8 +110,8 @@ The project follows a structured data science workflow:
 - **Opposition Analysis**: Aggregation and comparison of performance metrics against different teams
 - **Venue Analysis**: Statistical breakdown of performance at different cricket grounds
 - **Metric Calculation**:
-  - Bowling: Wickets, Economy, Bowling Average (runs/wickets), Strike Rate (balls/wicket)
-  - Batting: Runs, Batting Average (runs/dismissals), Strike Rate (runs*100/balls)
+  - Bowling: Wickets, Economy, Bowling Average, Strike Rate
+  - Batting: Runs, Batting Average, Strike Rate
 
 ### Statistical Analysis
 1. **Stationarity Testing**:
